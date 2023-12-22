@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 Currently learning Flutter, Go 
 
-- 🎓 Graduated from CSU, majored in automation 
+- 🎓 Graduated from CSU, majored in Automation Engineering
 
 - 📝 Regularly write articles on **[Personal Blog](https://jiangjings.com)**，or write on [stackoverflow](https://stackoverflow.com/users/10522217)
 
