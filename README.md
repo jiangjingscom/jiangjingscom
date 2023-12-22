@@ -18,19 +18,19 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irisgithub&label=Profile%20views&color=0e75b6&style=flat" alt="irisgithub" /> </p>
 
-- 🔭 I’m currently working on something cool 😉
+- 🔭 Currently working on something cool 😉
 
-- 🌱 I’m currently learning Flutter, Go 
+- 🌱 Currently learning Flutter, Go 
 
 - 🎓 Graduated from CSU, majored in automation 
 
-- 📝 I regularly write articles on **[Personal Blog](https://jiangjings.com)**
+- 📝 Regularly write articles on **[Personal Blog](https://jiangjings.com)**
 
 - 💬 Talk to me about anything related to Javascript/Typescript/Python or React/Vue/Taro/Node
 
 - 👯 Welcome to send me emails to communicate **jiangjing201712@gmail.com**
 
-- ⚡ Fun fact **I ❤️ 🐶s and CS:GO**
+- ⚡ Fun fact **I ❤️ 🐶s** and CS:GO
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
