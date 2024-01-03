@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 💬 Talk to me about anything related to Javascript/Typescript/Python or React/Vue/Taro/Node
 
-- 👯 Welcome to send me emails to communicate **jiangjing201712@gmail.com**
+- 👯 Welcome to send me emails to communicate **i@jiangjings.com**
 
 - ⚡ Fun fact **I ❤️ 🐶s** and CS:GO
 
