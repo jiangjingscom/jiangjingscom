@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Figma-%23f24e1e.svg?logo=Figma&logoColor=white&style=flat-square" alt="Figma" height="22"/> <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch" height="22"/> <img src="https://img.shields.io/badge/Photoshop-%2331a8ff.svg?logo=adobe-photoshop&logoColor=white&style=flat-square" alt="Photoshop" height="22"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=irisgithub&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&locale=en" alt="irisgithub" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irisgithub&show_icons=true&locale=en&layout=compact" alt="irisgithub" />
+<img src="https://github-readme-stats.vercel.app/api?username=irisgithub&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&locale=en" alt="irisgithub" />
