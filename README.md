@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Jing</h1>
+<h1 align="center">Hi <img align="top" src="https://github.com/IrisGitHub/IrisGitHub/blob/main/wave.gif" width="40px" height="40px"/> , I'm Jing</h1>
 <h3 align="center">A fullstack developer has a expertise in Front-end</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irisgithub&label=Profile%20views&color=0e75b6&style=flat" alt="irisgithub" /> </p>
