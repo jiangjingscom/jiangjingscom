@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 - 🔭 Currently working on something cool
 
-- 🌱 Currently learning Flutter, Go 
+- 🌱 Currently learning Go,Haskell 
 
-- 🎓 Graduated from CSU, majored in Automation Engineering
+- 🎓 Graduated from [CSU](https://www.csu.edu.cn/), majored in Automation Engineering
 
 - 📝 Regularly write articles on [Personal Blog](https://jiangjings.com)，or write on [Stackoverflow](https://stackoverflow.com/users/10522217)
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 👯 Welcome to send me [emails](mailto:i@jiangjings.com) to communicate 
 
-- ⚡ Fun fact **I ❤️ 🐶s** and CS:GO
+- ⚡ Fun fact **I ❤️ 🐶s** and (CS:GO)(https://store.steampowered.com/app/730/CounterStrike_2/)
 
 ### Technology Stack
 
