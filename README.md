@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 Currently working on something cool
 
-- 🌱 Currently learning Go,Haskell 
+- 🌱 Currently learning Go,web3...
 
 - 🎓 Graduated from CSU, majored in Automation Engineering
 
