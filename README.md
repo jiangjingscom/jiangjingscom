@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🎓 Graduated from CSU,majored in Automation Engineering
 
-- 📝 Regularly write articles on [Personal Blog](https://jiangjings.com)，or write on [Stackoverflow](https://stackoverflow.com/users/10522217)
+- 📝 Regularly write articles on [Personal Blog](https://jiangjings.com),or write on [Stackoverflow](https://stackoverflow.com/users/10522217)
 
 - 💬 Talk to me about anything related to Javascript/Typescript/Python or React/Vue/Taro/Node
 
