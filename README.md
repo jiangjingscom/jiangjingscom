@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 👯 Welcome to send me [emails](mailto:i@jiangjings.com) to communicate 
 
-- ⚡ Fun fact **I ❤️ 🐶s** and (CS:GO)(https://store.steampowered.com/app/730/CounterStrike_2/)
+- ⚡ Fun fact **I ❤️ 🐶s** and [CS:GO](https://store.steampowered.com/app/730/CounterStrike_2/)
 
 ### Technology Stack
 
