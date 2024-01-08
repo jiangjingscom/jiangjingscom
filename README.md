@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 💬 Talk to me about anything related to Javascript/Typescript/Python or React/Vue/Taro/Node
 
-- 👯 Welcome to send me emails to communicate i@jiangjings.com
+- 👯 Welcome to send me [emails](i@jiangjings.com) to communicate 
 
 - ⚡ Fun fact **I ❤️ 🐶s** and CS:GO
 
