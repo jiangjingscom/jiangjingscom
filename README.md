@@ -1,7 +1,7 @@
 
-## ✨ Fancy seeing you here!  ✨ <img src="https://github.com/IrisGitHub/IrisGitHub/blob/main/wave.gif" width="36px"/>  
+## ✨ 𝐹𝑎𝑛𝑐𝑦 𝑠𝑒𝑒𝑖𝑛𝑔 𝑦𝑜𝑢 ℎ𝑒𝑟𝑒! ✨ <img src="https://github.com/IrisGitHub/IrisGitHub/blob/main/wave.gif" width="36px"/>  
 
-I'm Jing, a full-stack developer focused on Front-end. I Graduated from CSU and majored in Automation Engineering. And now, I am Currently learning Threejs, Go, web3, etc. Fun fact, I ❤️ 🐶s and CS:GO. Feel free to connect with me here:
+𝐼'𝑚 𝐽𝑖𝑛𝑔, 𝑎 𝑓𝑢𝑙𝑙-𝑠𝑡𝑎𝑐𝑘 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟 𝑓𝑜𝑐𝑢𝑠𝑒𝑑 𝑜𝑛 𝐹𝑟𝑜𝑛𝑡-𝑒𝑛𝑑. 𝐼 𝐺𝑟𝑎𝑑𝑢𝑎𝑡𝑒𝑑 𝑓𝑟𝑜𝑚 𝐶𝑆𝑈 𝑎𝑛𝑑 𝑚𝑎𝑗𝑜𝑟𝑒𝑑 𝑖𝑛 𝐴𝑢𝑡𝑜𝑚𝑎𝑡𝑖𝑜𝑛 𝐸𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔. 𝐴𝑛𝑑 𝑛𝑜𝑤, 𝐼 𝑎𝑚 𝐶𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑇ℎ𝑟𝑒𝑒𝑗𝑠, 𝐺𝑜, 𝑤𝑒𝑏3, 𝑒𝑡𝑐. 𝐹𝑢𝑛 𝑓𝑎𝑐𝑡, 𝐼 ❤️ 🐶𝑠 𝑎𝑛𝑑 𝐶𝑆:𝐺𝑂. 𝐹𝑒𝑒𝑙 𝑓𝑟𝑒𝑒 𝑡𝑜 𝑐𝑜𝑛𝑛𝑒𝑐𝑡 𝑤𝑖𝑡ℎ 𝑚𝑒 ℎ𝑒𝑟𝑒:
 
 [![twitter](https://img.shields.io/badge/-@jiangjingss-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/jingjiangss)
 [![Stackoverflow](https://img.shields.io/badge/-@jing.jiang-black?logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/10522217)
@@ -9,7 +9,7 @@ I'm Jing, a full-stack developer focused on Front-end. I Graduated from CSU and 
 [![email](https://img.shields.io/badge/email-i@jiangjings.com-03a57a?style=flat-square)](mailto:i@jiangjings.com)
 [![website](https://img.shields.io/badge/website-jiangjings.com-CC6699?style=flat-square)](https://jiangjings.com)
 
-**My Tech Stack**
+**𝑀𝑦 𝑇𝑒𝑐ℎ 𝑆𝑡𝑎𝑐𝑘**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/Typescript-%23007acc.svg?style=flat-square&logo=typescript&logoColor=white)
@@ -49,7 +49,7 @@ I'm Jing, a full-stack developer focused on Front-end. I Graduated from CSU and 
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat-square&logo=sketch&logoColor=black)
 ![Photoshop](https://img.shields.io/badge/Photoshop-%2331a8ff.svg?style=flat-square&logo=adobe-photoshop&logoColor=white)
 
-**Stats**
+**𝑆𝑡𝑎𝑡𝑠**
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=irisgithub&count_private=true&hide=contribs&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&locale=en" height="120"/>
