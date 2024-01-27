@@ -1,7 +1,7 @@
 
 ## ✨ 𝐹𝑎𝑛𝑐𝑦 𝑠𝑒𝑒𝑖𝑛𝑔 𝑦𝑜𝑢 ℎ𝑒𝑟𝑒! ✨  <img src="https://github.com/IrisGitHub/IrisGitHub/blob/main/wave.gif" width="36px" height="36px"/>  
 
-𝐼'𝑚 𝐽𝑖𝑛𝑔, 𝑎 𝑓𝑢𝑙𝑙-𝑠𝑡𝑎𝑐𝑘 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟 𝑓𝑜𝑐𝑢𝑠𝑒𝑑 𝑜𝑛 𝐹𝑟𝑜𝑛𝑡-𝑒𝑛𝑑. 𝐼 𝑔𝑟𝑎𝑑𝑢𝑎𝑡𝑒𝑑 𝑓𝑟𝑜𝑚 𝐶𝑆𝑈 𝑎𝑛𝑑 𝑚𝑎𝑗𝑜𝑟𝑒𝑑 𝑖𝑛 𝑎𝑢𝑡𝑜𝑚𝑎𝑡𝑖𝑜𝑛 𝑒𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔. 𝐴𝑛𝑑 𝑛𝑜𝑤, 𝐼 𝑎𝑚 𝑐𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑇ℎ𝑟𝑒𝑒𝑗𝑠, 𝐺𝑜, 𝑊𝑒𝑏3, 𝑒𝑡𝑐. 𝐹𝑢𝑛 𝑓𝑎𝑐𝑡: 𝐼 ❤️ 🐶𝑠 𝑎𝑛𝑑 𝐶𝑆:𝐺𝑂. 𝐹𝑒𝑒𝑙 𝑓𝑟𝑒𝑒 𝑡𝑜 𝑐𝑜𝑛𝑛𝑒𝑐𝑡 𝑤𝑖𝑡ℎ 𝑚𝑒 ℎ𝑒𝑟𝑒:
+𝐼'𝑚 𝐽𝑖𝑛𝑔, 𝑎 𝑓𝑢𝑙𝑙-𝑠𝑡𝑎𝑐𝑘 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑟 𝑓𝑜𝑐𝑢𝑠𝑒𝑑 𝑜𝑛 𝐹𝑟𝑜𝑛𝑡-𝑒𝑛𝑑. 𝐼 𝑔𝑟𝑎𝑑𝑢𝑎𝑡𝑒𝑑 𝑓𝑟𝑜𝑚 𝐶𝑆𝑈 𝑎𝑛𝑑 𝑚𝑎𝑗𝑜𝑟𝑒𝑑 𝑖𝑛 𝑎𝑢𝑡𝑜𝑚𝑎𝑡𝑖𝑜𝑛 𝑒𝑛𝑔𝑖𝑛𝑒𝑒𝑟𝑖𝑛𝑔. 𝐴𝑛𝑑 𝑛𝑜𝑤, 𝐼 𝑎𝑚 𝑐𝑢𝑟𝑟𝑒𝑛𝑡𝑙𝑦 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑇ℎ𝑟𝑒𝑒𝑗𝑠,𝑆ℎ𝑎𝑑𝑒𝑟,𝐵𝑙𝑒𝑛𝑑𝑒𝑟,𝑒𝑡𝑐. 𝐹𝑢𝑛 𝑓𝑎𝑐𝑡: 𝐼 ❤️ 🐶𝑠 𝑎𝑛𝑑 𝐶𝑆:𝐺𝑂. 𝐹𝑒𝑒𝑙 𝑓𝑟𝑒𝑒 𝑡𝑜 𝑐𝑜𝑛𝑛𝑒𝑐𝑡 𝑤𝑖𝑡ℎ 𝑚𝑒 ℎ𝑒𝑟𝑒:
 
 [![twitter](https://img.shields.io/badge/-@jiangjingss-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/jingjiangss)
 [![Stackoverflow](https://img.shields.io/badge/-@jing.jiang-black?logo=stackoverflow&style=flat-square&color=%2335495e)](https://stackoverflow.com/users/10522217)
@@ -17,6 +17,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat-squar&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat-square&logo=Markdown)<br />
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=React&logoColor=%2361dafb)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=Vue.js&logoColor=%234fc08d)
@@ -25,19 +26,21 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952b3.svg?style=flat-square&logo=bootstrap&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/ant%20design-%230170fe.svg?style=flat-square&logo=Ant-design&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-%231572b6.svg?style=flat-square&logo=Electron&logoColor=white)<br />
-![pnpm](https://img.shields.io/badge/pnpm-yellow?style=flat-square&logo=pnpm&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-%231e72b3.svg?style=flat-square&logo=Webpack&logoColor=white)
-![postcss](https://img.shields.io/badge/postcss-DD3A0A?style=flat-square&logo=postcss&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-%23323330.svg?style=flat-square&logo=babel&logoColor=%23f9dc3e)
-![eslint](https://img.shields.io/badge/eslint-3A33D1?style=flat-square&logo=eslint&logoColor=white)
-![prettier](https://img.shields.io/badge/prettier-1A2C34?style=flat-square&logo=prettier&logoColor=F7BA3E)
-![axios](https://img.shields.io/badge/axios-671ddf?style=flat-square&logo=axios&logoColor=white)<br />
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853d.svg?style=flat-square&logo=node.js&logoColor=white)
 ![express](https://img.shields.io/badge/Express%20js-000000?style=flat-square&logo=express&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white)
 ![MySQL](https://img.shields.io/badge/Mysql-%234479a1.svg?style=flat-square&logo=MySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/Mongodb-%234ea94b.svg?style=flat-square&logo=Mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23a51f17.svg?style=flat-square&logo=redis&logoColor=white)<br />
+![Redis](https://img.shields.io/badge/Redis-%23a51f17.svg?style=flat-square&logo=redis&logoColor=white)
+![axios](https://img.shields.io/badge/axios-671ddf?style=flat-square&logo=axios&logoColor=white)<br />
+![pnpm](https://img.shields.io/badge/pnpm-yellow?style=flat-square&logo=pnpm&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-%231e72b3.svg?style=flat-square&logo=Webpack&logoColor=white)
+![postcss](https://img.shields.io/badge/postcss-DD3A0A?style=flat-square&logo=postcss&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-%23323330.svg?style=flat-square&logo=babel&logoColor=%23f9dc3e)
+![prettier](https://img.shields.io/badge/prettier-1A2C34?style=flat-square&logo=prettier&logoColor=F7BA3E)
+![eslint](https://img.shields.io/badge/eslint-3A33D1?style=flat-square&logo=eslint&logoColor=white)
+![commitlint](https://img.shields.io/badge/commitlint-000000?style=flat-square&logo=commitlint&logoColor=4eb1dc)<br />
+![Github Actions](https://img.shields.io/badge/Github%20Actions-282a2e?style=flat-square&logo=githubactions&logoColor=367cfe)
 ![docker](https://img.shields.io/badge/Docker-%23000000.svg?style=flat-square&logo=Docker&logoColor=blue)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
