@@ -21,11 +21,11 @@
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat-squar&logo=gnu-bash&logoColor=white)<br />
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=React&logoColor=%2361dafb)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=Vue.js&logoColor=%234fc08d)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-001a3a?style=flat-square&logo=ionic&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-%231572b6.svg?style=flat-square&logo=Electron&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-001a3a?style=flat-square&logo=ionic&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/ant%20design-%230170fe.svg?style=flat-square&logo=Ant-design&logoColor=white)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952b3.svg?style=flat-square&logo=bootstrap&logoColor=white)<br />
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853d.svg?style=flat-square&logo=node.js&logoColor=white)
 ![express](https://img.shields.io/badge/Express%20js-000000?style=flat-square&logo=express&logoColor=white)
