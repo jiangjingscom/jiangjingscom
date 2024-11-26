@@ -18,7 +18,7 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat-squar&logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat-square&logo=Markdown)<br />
+![Markdown](https://img.shields.io/badge/Markdown-343A40?style=flat-square&logo=Markdown)<br />
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=React&logoColor=%2361dafb)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=Vue.js&logoColor=%234fc08d)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
