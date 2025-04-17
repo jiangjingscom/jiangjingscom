@@ -5,7 +5,7 @@
 
 [![twitter](https://img.shields.io/badge/-@jiangjingscom-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/jiangjingscom)
 [![Stackoverflow](https://img.shields.io/badge/-@jing.jiang-black?logo=stackoverflow&style=flat-square&color=%2335495e)](https://stackoverflow.com/users/10522217)
-[![Linkedin Badge](https://img.shields.io/badge/-jing.jiang-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jing-jiang-27b45375/)
+[![Linkedin Badge](https://img.shields.io/badge/-jing.jiang-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jiangjingscom/)
 [![email](https://img.shields.io/badge/email-i@jiangjings.com-03a57a?style=flat-square)](mailto:i@jiangjings.com)
 [![website](https://img.shields.io/badge/website-jiangjings.com-CC6699?style=flat-square)](https://jiangjings.com)
 
